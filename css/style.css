@@ -12,6 +12,9 @@ body{
     font-family: 'Poppins' , sans-serif;
     height: 4000px;
 }
+a{
+    text-decoration:none;
+}
 
 *{
     padding:0;                              /* removing white space from all 3 side side and  */
